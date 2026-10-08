@@ -1,0 +1,11 @@
+{
+  "name": "SafeBite Food Scanner",
+  "short_name": "SafeBite",
+  "description": "Scan food barcodes to flag harmful ingredients and find safer alternatives.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8f6",
+  "theme_color": "#1f9d55",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
